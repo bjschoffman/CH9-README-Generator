@@ -29,7 +29,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please choose a license for your project.',
-        choices:['MIT', 'Apache', 'none'],
+        choices:['MIT', 'Apache', 'GNU', 'None'],
     },
     {
         type: 'input',
@@ -44,7 +44,7 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'What is your Github useranme?',
+        message: 'What is your Github username?',
     },
     {
         type: 'input',

@@ -1,9 +1,9 @@
-# gsgs
+# Project Title
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  sgsg
+  Test
 
   ## Table of Contents
   - [Description](#description)
@@ -16,22 +16,25 @@
   
 
   ## Installation
-  sgs
+  Test
 
   ## Usage
-  sfgsg
+  Test
 
   
-  ## License
-    License under: MIT
+  ## License 
+    MIT License
   
 
   ## Contributions
-  sgsgs
+  Test
 
   ## Tests
-  sgsgg
+  Test
 
   ## Questions
-  sgsg
-  sgsgs
+  Github: [bjschoffman](https://github.com/bjschoffman)
+
+  E-mail: [bjschoffman@gmail.com](https://bjschoffman@gmail.com)
+
+  Any further questions or comments, please contact me by e-mail.
